@@ -1,0 +1,23 @@
+status: 301
+content-length: 244
+content-location: http://wikipedia.com/wiki/batman
+x-cache: HIT from sq63.wikimedia.org, MISS from sq74.wikimedia.org
+age: 1683
+expires: Sat, 24 Nov 2012 01:59:56 GMT
+server: Apache
+connection: close
+location: http://www.wikipedia.org/wiki/batman
+cache-control: private, s-maxage=0, max-age=0, must-revalidate
+date: Thu, 25 Oct 2012 01:59:56 GMT
+-x-permanent-redirect-url: http://www.wikipedia.org/wiki/batman
+content-type: text/html; charset=iso-8859-1
+x-cache-lookup: HIT from sq63.wikimedia.org:3128,
+ MISS from sq74.wikimedia.org:80
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="http://www.wikipedia.org/wiki/batman">here</a>.</p>
+</body></html>

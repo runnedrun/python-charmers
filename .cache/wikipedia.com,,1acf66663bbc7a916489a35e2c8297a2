@@ -1,0 +1,23 @@
+status: 301
+content-length: 233
+content-location: http://wikipedia.com
+x-cache: HIT from sq66.wikimedia.org, HIT from sq62.wikimedia.org
+x-cache-lookup: HIT from sq66.wikimedia.org:3128,
+ HIT from sq62.wikimedia.org:80
+expires: Sat, 24 Nov 2012 01:46:34 GMT
+server: Apache
+connection: close
+location: http://www.wikipedia.org/
+cache-control: max-age=2592000
+date: Thu, 25 Oct 2012 01:46:34 GMT
+-x-permanent-redirect-url: http://www.wikipedia.org/
+content-type: text/html; charset=iso-8859-1
+age: 680
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="http://www.wikipedia.org/">here</a>.</p>
+</body></html>

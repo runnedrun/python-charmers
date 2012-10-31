@@ -1,0 +1,19 @@
+status: 301
+content-length: 0
+x-cache: MISS from cp1014.eqiad.wmnet, MISS from cp1013.eqiad.wmnet
+x-content-type-options: nosniff
+x-cache-lookup: HIT from cp1014.eqiad.wmnet:3128,
+ MISS from cp1013.eqiad.wmnet:80
+vary: Accept-Encoding,X-Forwarded-Proto,Cookie
+server: Apache
+last-modified: Thu, 25 Oct 2012 02:27:59 GMT
+connection: close
+-content-encoding: gzip
+location: http://en.wikipedia.org/wiki/Batman
+cache-control: private, s-maxage=0, max-age=0, must-revalidate
+date: Thu, 25 Oct 2012 02:27:59 GMT
+-x-permanent-redirect-url: http://en.wikipedia.org/wiki/Batman
+content-type: text/html; charset=utf-8
+content-location: http://en.wikipedia.org/wiki/batman
+-varied-accept-encoding: gzip, deflate
+

@@ -1,0 +1,2 @@
+def trick_or_treat(name):
+    return "hello" + name+  "here's some candy for you"

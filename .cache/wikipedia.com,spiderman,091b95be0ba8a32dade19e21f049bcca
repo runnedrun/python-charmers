@@ -1,0 +1,23 @@
+status: 301
+content-length: 242
+content-location: http://wikipedia.com/spiderman
+x-cache: HIT from sq78.wikimedia.org, MISS from sq64.wikimedia.org
+age: 334781
+expires: Tue, 20 Nov 2012 04:59:47 GMT
+server: Apache
+connection: close
+location: http://www.wikipedia.org/spiderman
+cache-control: max-age=2592000
+date: Sun, 21 Oct 2012 04:59:47 GMT
+-x-permanent-redirect-url: http://www.wikipedia.org/spiderman
+content-type: text/html; charset=iso-8859-1
+x-cache-lookup: HIT from sq78.wikimedia.org:3128,
+ MISS from sq64.wikimedia.org:80
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="http://www.wikipedia.org/spiderman">here</a>.</p>
+</body></html>
